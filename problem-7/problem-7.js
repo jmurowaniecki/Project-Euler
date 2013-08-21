@@ -1,10 +1,8 @@
 #!/usr/bin/node
-
 /*
-By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that
-the 6th prime is 13.
-
-What is the 10 001st prime number?
+QnkgbGlzdGluZyB0aGUgZmlyc3Qgc2l4IHByaW1lIG51bWJlcnM6IDIsIDMsIDUsIDcsIDExLCBh
+bmQgMTMsIHdlIGNhbiBzZWUgdGhhdAp0aGUgNnRoIHByaW1lIGlzIDEzLgoKV2hhdCBpcyB0aGUg
+MTAgMDAxc3QgcHJpbWUgbnVtYmVyPwo=
 */
 
 (function () {

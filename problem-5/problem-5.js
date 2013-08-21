@@ -1,11 +1,9 @@
 #!/usr/bin/node
-
 /*
-2520 is the smallest number that can be divided by each of the numbers from 1
-to 10 without any remainder.
-
-What is the smallest positive number that is evenly divisible by all of the
-numbers from 1 to 20?
+MjUyMCBpcyB0aGUgc21hbGxlc3QgbnVtYmVyIHRoYXQgY2FuIGJlIGRpdmlkZWQgYnkgZWFjaCBv
+ZiB0aGUgbnVtYmVycyBmcm9tIDEKdG8gMTAgd2l0aG91dCBhbnkgcmVtYWluZGVyLgoKV2hhdCBp
+cyB0aGUgc21hbGxlc3QgcG9zaXRpdmUgbnVtYmVyIHRoYXQgaXMgZXZlbmx5IGRpdmlzaWJsZSBi
+eSBhbGwgb2YgdGhlCm51bWJlcnMgZnJvbSAxIHRvIDIwPwo=
 */
 
 var evenly_divisible = function () {

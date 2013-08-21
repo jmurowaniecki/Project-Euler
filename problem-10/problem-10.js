@@ -1,9 +1,7 @@
 #!/usr/bin/node
-
 /*
-The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
-
-Find the sum of all the primes below two million.
+VGhlIHN1bSBvZiB0aGUgcHJpbWVzIGJlbG93IDEwIGlzIDIgKyAzICsgNSArIDcgPSAxNy4KCkZp
+bmQgdGhlIHN1bSBvZiBhbGwgdGhlIHByaW1lcyBiZWxvdyB0d28gbWlsbGlvbi4K
 */
 (function () {
 	var list = [2, 3, 5, 7, 11, 13], is_prime = true, i, m, n = 13, sum = 0, ini = new Date(), end = false, N = 1;

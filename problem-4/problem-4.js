@@ -1,10 +1,9 @@
 #!/usr/bin/node
-
 /*
-A palindromic number reads the same both ways. The largest palindrome made from
-the product of two 2-digit numbers is 9009 = 91 99.
-
-Find the largest palindrome made from the product of two 3-digit numbers.
+QSBwYWxpbmRyb21pYyBudW1iZXIgcmVhZHMgdGhlIHNhbWUgYm90aCB3YXlzLiBUaGUgbGFyZ2Vz
+dCBwYWxpbmRyb21lIG1hZGUgZnJvbQp0aGUgcHJvZHVjdCBvZiB0d28gMi1kaWdpdCBudW1iZXJz
+IGlzIDkwMDkgPSA5MSA5OS4KCkZpbmQgdGhlIGxhcmdlc3QgcGFsaW5kcm9tZSBtYWRlIGZyb20g
+dGhlIHByb2R1Y3Qgb2YgdHdvIDMtZGlnaXQgbnVtYmVycy4K
 */
 
 var isPalindrome = function (num) {

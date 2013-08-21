@@ -1,14 +1,10 @@
 #!/usr/bin/node
-
 /*
-A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
-
-a² + b² = c²
-
-For example, 3² + 4² = 9 + 16 = 25 = 5².
-
-There exists exactly one Pythagorean triplet for which a + b + c = 1000.
-Find the product abc.
+QSBQeXRoYWdvcmVhbiB0cmlwbGV0IGlzIGEgc2V0IG9mIHRocmVlIG5hdHVyYWwgbnVtYmVycywg
+YSA8IGIgPCBjLCBmb3Igd2hpY2gsCgphwrIgKyBiwrIgPSBjwrIKCkZvciBleGFtcGxlLCAzwrIg
+KyA0wrIgPSA5ICsgMTYgPSAyNSA9IDXCsi4KClRoZXJlIGV4aXN0cyBleGFjdGx5IG9uZSBQeXRo
+YWdvcmVhbiB0cmlwbGV0IGZvciB3aGljaCBhICsgYiArIGMgPSAxMDAwLgpGaW5kIHRoZSBwcm9k
+dWN0IGFiYy4K
 */
 
 function pow (a, b) {
